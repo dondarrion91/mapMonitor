@@ -1,0 +1,44 @@
+[
+    {
+        "lat": -31.423024,
+        "lng": -64.190797,
+        "place": "Lugar uno",
+        "status": true
+    },
+    {
+        "lat": -31.424342,
+        "lng": -64.183411,
+        "place": "Lugar dos",
+        "status": false
+    },
+    {
+        "lat": -31.431446,
+        "lng": -64.181266,
+        "place": "Lugar tres",
+        "status": true
+    },
+    {
+        "lat": -31.429395,
+        "lng": -64.160653,
+        "place": "Lugar cuatro",
+        "status": true
+    },
+    {
+        "lat": -31.432178,
+        "lng": -64.197463,
+        "place": "Lugar quinto",
+        "status": false
+    },
+    {
+        "lat": -31.427784,
+        "lng": -64.205708,
+        "place": "Lugar seis",
+        "status": true
+    },
+    {
+        "lat": -31.417677,
+        "lng": -64.193745,
+        "place": "Lugar siete",
+        "status": true
+    }
+]
